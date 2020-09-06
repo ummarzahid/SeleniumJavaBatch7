@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23173" started-at="2020-09-03T20:59:06 EDT" finished-at="2020-09-03T20:59:29 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23173" started-at="2020-09-03T20:59:06 EDT" finished-at="2020-09-03T20:59:29 EDT">
+      <class name="com.syntax.test.HwTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="setUp" is-config="true" duration-ms="6884" started-at="2020-09-03T20:59:06 EDT" finished-at="2020-09-03T20:59:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="blankPasswordValidation()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="blankPasswordValidation" duration-ms="149" started-at="2020-09-03T20:59:13 EDT" finished-at="2020-09-03T20:59:13 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankPasswordValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="tearDown" is-config="true" duration-ms="644" started-at="2020-09-03T20:59:13 EDT" finished-at="2020-09-03T20:59:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="setUp" is-config="true" duration-ms="6234" started-at="2020-09-03T20:59:14 EDT" finished-at="2020-09-03T20:59:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="blankUsernameAndPasswordValidation()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="blankUsernameAndPasswordValidation" duration-ms="96" started-at="2020-09-03T20:59:20 EDT" finished-at="2020-09-03T20:59:20 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blankUsernameAndPasswordValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="tearDown" is-config="true" duration-ms="651" started-at="2020-09-03T20:59:20 EDT" finished-at="2020-09-03T20:59:21 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="setUp" is-config="true" duration-ms="6822" started-at="2020-09-03T20:59:21 EDT" finished-at="2020-09-03T20:59:28 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidPasswordValidation()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="invalidPasswordValidation" duration-ms="995" started-at="2020-09-03T20:59:28 EDT" finished-at="2020-09-03T20:59:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidPasswordValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.syntax.test.HwTest@23e028a9]" name="tearDown" is-config="true" duration-ms="659" started-at="2020-09-03T20:59:29 EDT" finished-at="2020-09-03T20:59:29 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.syntax.test.HwTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
